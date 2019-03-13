@@ -1,0 +1,7 @@
+cd users
+cd Jeffh
+cd documents
+cd bootcamp
+cd dataviz
+cd UCSDSAN20190108DATA
+git pull

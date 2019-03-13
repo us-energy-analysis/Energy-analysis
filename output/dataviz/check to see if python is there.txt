@@ -1,0 +1,4 @@
+Python --version
+conda --version
+
+source activate Pythondata
