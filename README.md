@@ -4,7 +4,7 @@
 
 #How has U.S. nonrenewable and renewable energy supply and consumption changed over time?
 
-We examined energy data within the U.S. dating back to 1990. We found that overtime, the fossil fuel and nonrenewable market was only slightly disrupted by renewable energy. The relationship between supply and consumption showed to be positive; as supply increased over time, consumption would follow. 
+We examined energy data within the U.S. dating back to 1990. We found that over time, the fossil fuel and nonrenewable market was only slightly disrupted by renewable energy. The relationship between supply and consumption showed to be positive; as supply increased over time, consumption would follow. 
 
 #Has renewable energy had any influence on nonrenewable energy consumption?
 
