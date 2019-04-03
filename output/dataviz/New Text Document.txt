@@ -1,0 +1,3 @@
+jupyter notebook
+
+Dropna and fillna are perfect for pandas

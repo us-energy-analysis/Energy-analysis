@@ -1,0 +1,11 @@
+On gitbash hold tab to autocomplete to get through cd
+!c is the last command in your history. 
+** means to the power or exponent
+len( amount of elements
+
+myTuple = A list you don't want to change (can be used as a reference)
+pop(element): removes a certain element. the elements start at 0. 
+Import random: Imports the random function and allows for random function. 
+
+for x in Range(5): loop is 0 through 4
+there is no next. instead an indentation means it is the body of the for loop. 
