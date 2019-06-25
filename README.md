@@ -24,4 +24,4 @@ In regards to price, the fossil fuel market has demonstrated to have more volati
 
 #Is there a correlation between increasing renewable energy production and consumption and fossil fuel prices?
 
-We examined the price of each nonrenewable energy price over the last thirty years. We found there’s a common trend with supply/consumption of the big three energy sources and the overall price in the market had a positive correlation with supply and consumption rates, with the exception of 
+We examined the price of each nonrenewable energy price over the last thirty years. We found there’s a common trend with supply/consumption of the big three energy sources and the overall price in the market had a positive correlation with supply and consumption rates, with the exception of coal. As renewable energy resources came into the market, it leads to having a negative effect on coal consumption in the U.S.
