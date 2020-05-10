@@ -1,12 +1,12 @@
 # Energy-analysis
 
-#Summary of U.S. Energy Analysis: Major Findings from Project 1
+#Summary of U.S. Energy Analysis: Major Findings
 
 #How has U.S. nonrenewable and renewable energy supply and consumption changed over time?
 
-We examined energy data within the U.S. dating back to 1990. We found that over time, the fossil fuel and nonrenewable market was only slightly disrupted by renewable energy. The relationship between supply and consumption showed to be positive; as supply increased over time, consumption would follow. 
+This was my first look at energy data within the U.S. dating back to 1990. Over time, the fossil fuel and nonrenewable market was only slightly disrupted by renewable energy. The relationship between supply and consumption showed to be positive; as supply increased over time, consumption showed a similar trend. 
 
-#Has renewable energy had any influence on nonrenewable energy consumption?
+#Has the growth of renewable energy in recent years had any influence on nonrenewable energy consumption?
 
 Yes, but not to the extent we hypothesized. While it’s clear there has been a small disruption in the fossil fuel and nonrenewable market, we believe it may still be due to undocumented geopolitical events. 
 
@@ -24,4 +24,4 @@ In regards to price, the fossil fuel market has demonstrated to have more volati
 
 #Is there a correlation between increasing renewable energy production and consumption and fossil fuel prices?
 
-We examined the price of each nonrenewable energy price over the last thirty years. We found there’s a common trend with supply/consumption of the big three energy sources and the overall price in the market had a positive correlation with supply and consumption rates, with the exception of coal. As renewable energy resources came into the market, it leads to having a negative effect on coal consumption in the U.S.
+After examining the price of each nonrenewable commmodity price over the last thirty years, results help pinpoint a common trend with supply/consumption of the big three non renewable energy sources: petroleum, natural gas, and coal. The overall price in the market had a positive correlation with supply and consumption rates, with the exception of coal. As renewable energy resources came into the market, it leads to having a negative effect on coal consumption in the U.S.
